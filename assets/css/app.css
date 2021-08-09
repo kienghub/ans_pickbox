@@ -1,0 +1,24 @@
+.bg-primary {
+  background-color: yellow;
+}
+body {
+  background-color: #ffff !important;
+}
+#invice {
+  width: auto !important;
+  margin: 10px !important;
+}
+#printThisInvoice {
+  width: auto !important;
+  margin: 10px !important;
+}
+h1,
+h2,
+h3,
+h4 {
+  color: black !important;
+}
+#tbheader {
+  background-color: #2e3440;
+  color: #f6f7f8;
+}
