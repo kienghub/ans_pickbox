@@ -29,7 +29,6 @@ date_default_timezone_set("Asia/Bangkok");
 @$_time = date("H:i");
 @$_gen_id = date("ymddh");
 @$_today = date("Y-m-d");
-@$_todays = date("Y-m-d");
 
 $date = DateTime::createFromFormat('Y-m-d',$_today);
 $date->modify('-7 days');
